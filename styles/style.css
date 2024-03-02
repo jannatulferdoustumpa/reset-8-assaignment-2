@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+}
+.primary-color{
+    color: #FF5400;
+}
+.nav{
+    display: flex;
+   justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 90px;
+    margin-right: 90px;
+   font-weight: 300;
+   font-size: 20px;
+}
+
+.div1{
+    display: flex;
+    gap: 3px;
+}
+.div2{
+   
+}
+.ul{
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+.banner{
+    width: 100%;
+    position: relative;
+   margin-top: 20px;
+}
+.banner-title{
+    font-weight: 700;
+    font-size: 50px;
+    position: absolute;
+    color: white;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.banner-sub-title{
+   
+    position: absolute;
+    color: white;
+    top: 52%;
+    left: 48%;
+    transform: translate(-50%, -50%);
+}
+.div3{
+ padding: 10px;
+ border-radius: 5px;
+ display: flex;
+ gap: 5px;
+}
+.btn1{
+ background-color: white;
+ color: black;
+ padding: 10px;
+ position: absolute;
+ background-color: white;
+ top: 80%;
+ left: 30%;
+ transform: translate(-50%, -50%);
+ border-radius: 5px;
+ width: 120px;
+}
+.btn2{
+    background-color: white;
+ color: black;
+ padding: 10px;
+ position: absolute;
+ background-color: white;
+ top: 80%;
+ left: 45%;
+ transform: translate(-50%, -50%);
+ border-radius: 5px;
+ width: 140px;
+}
+.btn3{
+    background-color: white;
+ color: #131318;
+ padding: 10px;
+ position: absolute;
+ background-color: white;
+ top: 80%;
+ left: 60%;
+ transform: translate(-50%, -50%);
+ border-radius: 5px;
+ width: 140px;
+}
+.btn4{
+ color: white;
+ padding: 10px;
+ position: absolute;
+ background-color:#FF5400 ;
+ top: 80%;
+ left: 75%;
+ transform: translate(-50%, -50%);
+ border-radius: 5px;
+ width: 120px;
+}
+.item1{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.item2{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.li1{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.li2{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.li3{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.item3{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.popular-sec{
+    display: flex;
+    justify-content: space-around;
+}
+.btn5{
+    background-color: #FF5400;
+    color: white;
+    margin-left: 20px;
+    margin-top: 40px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.destination{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.destination-title{
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    text-align: center;
+}
+.destination-sub-title{
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    text-align: center;
+}
+.destination-img1{
+    margin-top: 30px;
+    margin-left: 20px;
+    gap: 30px;
+    grid-template-columns: repeat(2, 1fr);
+}
+.destination-img2{
+    margin-left: 20px;
+    gap: 30px;
+    grid-template-columns: repeat(3, 1fr);
+    margin-top: 5px;
+}
+.destination-img3{
+    margin-top: 5px;
+    margin-left: 20px;
+    gap: 30px;
+    grid-template-columns: repeat(2, 1fr);
+}
+.text-1{
+    position: absolute;
+    text-align: center;
+    left: 300px;
+    transform: translate(-50%, -50%);
+    color: white;
+   margin-top: -15%;
+}
+.text-2{
+    position: absolute;
+    text-align: center;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    color: white;
+   margin-top: -15%;
+}
+.text-3{
+    position: absolute;
+    text-align: center;
+    left: 200px;
+    transform: translate(-50%, -50%);
+    color: white;
+   margin-top: -15%;
+}
+.text-4{
+    position: absolute;
+    text-align: center;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+   margin-top: -15%;
+}
+.text-5{
+    position: absolute;
+    text-align: center;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    color: white;
+   margin-top: -15%;
+}
+.text-6{
+    position: absolute;
+    text-align: center;
+    left: 300px;
+    transform: translate(-50%, -50%);
+    color: white;
+   margin-top: -15%;
+}
+.text-7{
+    position: absolute;
+    text-align: center;
+    left: 75%;
+    transform: translate(-50%, -50%);
+    color: white;
+   margin-top: -15%;
+}
